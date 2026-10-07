@@ -1,0 +1,11 @@
+Dataset: UCI Heart Disease (Processed Cleveland)
+Model: Logistic Regression
+Accuracy: 0.8852
+Precision: 0.8387
+Recall: 0.9286
+F1 Score: 0.8814
+ROC-AUC: 0.9665
+
+Train/Test Split: 80/20
+Random State: 42
+Selected Model Criterion: Prioritized Recall for medical diagnostic relevance, with overall performance considerations.
